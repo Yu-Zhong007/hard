@@ -1000,7 +1000,7 @@
   }
 
   .title_footer {
-    font-size: 70px;
+    font-size: 60px;
     line-height: 70px;
   }
 
@@ -1024,7 +1024,7 @@
   }
 
   .title_welcome {
-    font-size: 70px;
+    font-size: 60px;
     line-height: 70px;
     position: relative;
     bottom: auto;
@@ -1034,7 +1034,7 @@
 
 @font-face {
   font-family: 'Japanese Robot';
-  src: url('../fonts/Japanese-Robot.ttf') format('truetype');
+  src: url('../fonts/HALCIT__.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -1042,7 +1042,7 @@
 
 @font-face {
   font-family: 'Maladroit';
-  src: url('../fonts/maladroit.ttf') format('truetype');
+  src: url('../fonts/DrivingAround.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
